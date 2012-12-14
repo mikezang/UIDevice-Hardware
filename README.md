@@ -1,7 +1,5 @@
-UIDevice-Hardware
-=================
+A UIDevice category to get iOS version, hardware device and platform name.
 
-Show iOS version, device and platform name as below
 
 Platform     Device
 =============================
