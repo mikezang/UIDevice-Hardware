@@ -1,4 +1,4 @@
-A UIDevice category to get iOS version, hardware device and platform name.
+UIDevice+Hardware - A class UIDevice category to get iOS version, hardware device and platform name.
 
 
 Platform     Device
