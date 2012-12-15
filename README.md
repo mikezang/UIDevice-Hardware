@@ -5,7 +5,7 @@ Platform     Device
 =============================
 iPhone1,1 iPhone 1G<br>
 iPhone1,2    iPhone 3G<br>
-iPhone2,1    iPhone 3G<Sbr>
+iPhone2,1    iPhone 3GS<br>
 iPhone3,1    iPhone 4<br>
 iPhone3,3    Verizon iPhone 4<br>
 iPhone4,1    iPhone 4S<br>
