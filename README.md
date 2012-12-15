@@ -15,7 +15,7 @@ iPod1,1      iPod Touch 1G<br>
 iPod2,1      iPod Touch 2G<br>
 iPod3,1      iPod Touch 3G<br>
 iPod4,1      iPod Touch 4G<br>
-iPod5,1      iPod Touch 5G<br<>br>
+iPod5,1      iPod Touch 5G<br><br>
 iPad1,1      iPad<br>
 iPad2,1      iPad 2 (WiFi)<br>
 iPad2,2      iPad 2 (GSM)<br>
