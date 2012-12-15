@@ -3,7 +3,7 @@ UIDevice+Hardware - A class UIDevice category to get iOS version, hardware devic
 
 Platform     Device
 =============================
-iPhone1,1 iPhone 1G 
+iPhone1,1 iPhone 1G
 iPhone1,2    iPhone 3G
 iPhone2,1    iPhone 3GS
 iPhone3,1    iPhone 4
